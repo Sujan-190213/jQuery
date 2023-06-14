@@ -1,0 +1,14 @@
+.div1{
+background:red;
+border: 2px solid green;
+padding: 5px;
+}
+
+
+.div2{
+background:#333;
+border: 2px solid green;
+color: white;
+height:100px;
+padding: 10px;
+    }

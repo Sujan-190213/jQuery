@@ -1,0 +1,31 @@
+.class1{
+color: red;
+font-size: 20px;
+
+}
+
+.class2{
+letter-spacing: 5px;
+color: green;  
+}
+
+.class3{
+height: 200px;
+width: 200px;
+border: 2px solid green;
+background: #333;
+}
+
+
+.class3{
+height: 200px;
+width: 200px;
+border: 2px solid green;
+background: rgb(74, 79, 85);
+}
+
+.class4{
+height: 200px;
+width: 200px;
+border: 2px solid red;
+background: #4a4f55

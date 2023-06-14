@@ -1,0 +1,25 @@
+.div1{
+    background:#98bf21;
+    height:100px;
+    width:100px;
+    position: relative;
+    opacity:0.5
+}
+
+
+.div2{
+    background:#4b21bf;
+    height:100px;
+    width:100px;
+    position: relative;
+    opacity:0.5
+}
+
+
+.div3{
+    background:#21bf56;
+    height:100px;
+    width:100px;
+    position: relative;
+    opacity:0.5
+}
